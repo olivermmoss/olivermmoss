@@ -4,6 +4,7 @@ I'm currently an undergraduate student at Carnegie Mellon University studying Ma
 My main programming experience in high school comes from game jam projects made in short time periods.  
 I also have a larger game dev project that was abandoned in favor of furthering my studies.  
 
+Check out my games at https://sscutoid.itch.io/ and the repositories listed here.
 <!--
 **olivermmoss/olivermmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
