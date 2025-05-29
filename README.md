@@ -5,6 +5,8 @@ My main programming experience in high school comes from game jam projects made 
 I also have a larger game dev project that was abandoned in favor of furthering my studies.  
 
 Check out my games at https://sscutoid.itch.io/ and the repositories listed here.
+
+This summer (2025), I'm working with SAT solvers to attempt unsolved graph drawing problems in collaboration with CMU's Professor John Mackey and student Hasita Kamarlapudi.
 <!--
 **olivermmoss/olivermmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
